@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>CybershieldGuardian</RootNamespace>
+    <AssemblyName>CybershieldGuardian</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Scripts\**\*.cs" />
+  </ItemGroup>
+
+</Project>

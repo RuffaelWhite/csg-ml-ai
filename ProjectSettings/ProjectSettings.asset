@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!129 &1
+PlayerSettings:
+  companyName: YourCompany
+  productName: CybershieldGuardian
+  defaultScreenWidth: 1920
+  defaultScreenHeight: 1080
+  defaultIsFullScreen: 1
+  splashScreen:
+    show: 1
+  bundleVersion: 1.0.0
+  applicationIdentifier:
+    Android: com.yourcompany.cybershieldguardian
+  android:
+    minSdkVersion: 21
+    targetSdkVersion: 30
+  scriptingBackend: 0
+  apiCompatibilityLevel: 2
+  activeColorSpace: 1
